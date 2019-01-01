@@ -2,111 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1edc0f49-1759-44c3-9941-04d281708d37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generative Adversarial Networks.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch100.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1000.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1000.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1050.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1050.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1100.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1200.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1250.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1300.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1350.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1350.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1400.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1400.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1450.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1500.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1500.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1550.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1550.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1600.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1650.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1650.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1700.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1700.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1750.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1750.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1800.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1800.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1850.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1850.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1900.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1900.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch1950.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch1950.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch200.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2000.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2000.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2050.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2050.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2100.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2200.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2250.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2300.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2350.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2350.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2400.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2400.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2450.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch250.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2500.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2500.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2550.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2550.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2600.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2650.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2650.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2700.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2700.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2750.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2750.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2800.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2800.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2850.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2850.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2900.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2900.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch2950.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch2950.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch300.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3000.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3000.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3050.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3050.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3100.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3200.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3250.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3300.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3350.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3350.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3400.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3400.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3450.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch350.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch350.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3500.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3500.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3550.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3550.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3600.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3650.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3650.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3700.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3700.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3750.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3750.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3800.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3800.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3850.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3850.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3900.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3900.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch3950.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch3950.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch400.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch400.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4000.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4000.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4050.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4050.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4100.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4200.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4250.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4300.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4350.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4350.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4400.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4400.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4450.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch450.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4500.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4500.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4550.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4550.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4600.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4650.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4650.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4700.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4700.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4750.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4750.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4800.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4800.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4850.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4850.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4900.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4900.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch4950.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch4950.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch50.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch50.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch500.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch500.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch550.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch550.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch600.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch650.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch650.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch700.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch700.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch750.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch750.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch800.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch800.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch850.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch850.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch900.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch900.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPokemon/epoch950.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/newDoggo/epoch950.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokeGAN.py" beforeDir="false" afterPath="$PROJECT_DIR$/doggoGan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resize.py" beforeDir="false" afterPath="$PROJECT_DIR$/resize.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,12 +15,13 @@
     <session id="-1360525055">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -133,6 +31,7 @@
           <entry key="ipynb" value="1" />
           <entry key="jpeg" value="11" />
           <entry key="jpg" value="15" />
+          <entry key="md" value="1" />
           <entry key="py" value="8" />
         </counts>
       </usages-collector>
@@ -140,6 +39,7 @@
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Image" value="26" />
+          <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Python" value="8" />
         </counts>
@@ -147,13 +47,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="26" />
-          <entry key="gitignore" value="26" />
+          <entry key="gitignore" value="32" />
           <entry key="py" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="52" />
+          <entry key="PLAIN_TEXT" value="58" />
           <entry key="Python" value="24" />
         </counts>
       </usages-collector>
@@ -175,7 +75,17 @@
         <entry file="file://$PROJECT_DIR$/resize.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-337" />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -183,8 +93,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+            <state relative-caret-position="27">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -193,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/doggoGan.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -290,10 +200,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24236874" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24542125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -377,37 +287,39 @@
     <entry file="file://$PROJECT_DIR$/resizedData/135p.jpg" />
     <entry file="file://$PROJECT_DIR$/resizedData/123p.jpg" />
     <entry file="file://$PROJECT_DIR$/resizedData/142p.jpg" />
-    <entry file="file://$PROJECT_DIR$/newDoggo/epoch4900.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/0.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generative Adversarial Networks.ipynb" />
     <entry file="file://$PROJECT_DIR$/doggoGan.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generative Adversarial Networks.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/newDoggo/epoch4900.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-337" />
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="27">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
         </state>
       </provider>
     </entry>
