@@ -36,3 +36,4 @@ To optimize my cost function I use Wasserstein distance. This will make my netwo
 
 
 ### Results 
+![epoch4950](https://github.com/maminio/Dog-Generator-GANs/blob/master/result.jpg?raw=true)
